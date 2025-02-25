@@ -24,4 +24,4 @@ They can modify records that the system has flagged as “non‐good” (e.g., i
 Once approved, those records are then sent to the respective production database.
 Embedding / Vector DB
 
-In the background, there is also a mention of an embedding process to a vector database, likely for later retrieval or semantic search. This piece ensures that the data (particularly MSA or NDA records) is stored in a way that is easy to retrieve or further process with LLMs.
+In the background, there is also a mention of an embedding process to a vector database, likely for later retrieval or semantic search. This piece ensures that the data (particularly MSA or NDA records) is stored in a way that is easy to retrieve or further processed with LLMs.
